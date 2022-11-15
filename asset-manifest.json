@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vidhya-Arun/TodoReact/static/css/main.cdb5de4a.css",
-    "main.js": "/vidhya-Arun/TodoReact/static/js/main.4551434d.js",
-    "static/js/787.2843ca88.chunk.js": "/vidhya-Arun/TodoReact/static/js/787.2843ca88.chunk.js",
-    "index.html": "/vidhya-Arun/TodoReact/index.html",
-    "main.cdb5de4a.css.map": "/vidhya-Arun/TodoReact/static/css/main.cdb5de4a.css.map",
-    "main.4551434d.js.map": "/vidhya-Arun/TodoReact/static/js/main.4551434d.js.map",
-    "787.2843ca88.chunk.js.map": "/vidhya-Arun/TodoReact/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/vidhya-Arun/todo-app/static/css/main.cdb5de4a.css",
+    "main.js": "/vidhya-Arun/todo-app/static/js/main.f441439c.js",
+    "static/js/787.2843ca88.chunk.js": "/vidhya-Arun/todo-app/static/js/787.2843ca88.chunk.js",
+    "index.html": "/vidhya-Arun/todo-app/index.html",
+    "main.cdb5de4a.css.map": "/vidhya-Arun/todo-app/static/css/main.cdb5de4a.css.map",
+    "main.f441439c.js.map": "/vidhya-Arun/todo-app/static/js/main.f441439c.js.map",
+    "787.2843ca88.chunk.js.map": "/vidhya-Arun/todo-app/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdb5de4a.css",
-    "static/js/main.4551434d.js"
+    "static/js/main.f441439c.js"
   ]
 }
